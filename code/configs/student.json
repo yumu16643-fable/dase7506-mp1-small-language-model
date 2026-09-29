@@ -1,0 +1,11 @@
+{
+  "vocab": 2048,
+  "width": 128,
+  "heads": 4,
+  "depth": 4,
+  "context": 256,
+  "student_width": 160,
+  "student_heads": 5,
+  "student_depth": 6,
+  "student_mlp_hidden": 448
+}
